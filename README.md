@@ -46,10 +46,9 @@ Prompt Size Limitations:
 → Adjust for size: “Give me 10 AI applications at a time.”
 
 
-OUTPUT
+# OUTPUT
 
-
-[EXPERIMENT 4.docx](https://github.com/user-attachments/files/23001745/EXPERIMENT.4.docx)
+[EXPERIMENT 4 (1).pdf](https://github.com/user-attachments/files/23002404/EXPERIMENT.4.1.pdf)
 
 
 # Result: The various types of Prompts are executed successfully with generated the report.
